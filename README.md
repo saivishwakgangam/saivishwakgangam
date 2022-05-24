@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @saivishwakgangam
-- 👀 I’m interested in ... Solving Problems and Learning new stuff.
-- 🌱 I’m currently pursuing M.Tech from IIIT Hyderabad ... 
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on Linkedin!!!
-
+* Hey, I am Sai Vishwak Gangam currently a post graduate student at IIIT Hyderabad
 <!---
 saivishwakgangam/saivishwakgangam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
